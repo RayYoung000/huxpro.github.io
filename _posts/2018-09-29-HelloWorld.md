@@ -4,7 +4,7 @@ title:      "Hello world"
 subtitle:   "Start My Blog"
 date:       2018-09-29 00:00:00
 author:     "RayYoung000"
-header-img: "img/post/post-bg-20180929.jpg"
+header-img: "img/post/post-bg-20180929-HelloWorld.jpg"
 catalog: true
 tags:
     - 生活
